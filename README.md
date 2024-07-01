@@ -1,5 +1,5 @@
 # Navoda-Medini-Web-Portfolio
-This repository showcases a portfolio site for a pattern maker. Built with HTML, CSS, and JavaScript, it features custom patterns and intuitive navigation. Highlighting creativity and functionality in web design, it aims to deliver compelling digital experiences for creative professionals.
+This repository showcases a portfolio site for a pattern maker. Built with HTML, CSS, JavaScript, and Boostrap, it features custom patterns and intuitive navigation. Highlighting creativity and functionality in web design, it aims to deliver compelling digital experiences for creative professionals.
 
 Below, you'll find screenshots highlighting this portfolio website.
 
